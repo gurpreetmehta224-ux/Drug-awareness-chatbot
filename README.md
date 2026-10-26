@@ -96,3 +96,7 @@ You can share the project over the internet with anyone (friends, college evalua
   * **SDG 11:** Sustainable Cities & Communities (Accessible community health services)
   * **SDG 17:** Partnerships for the Goals (NGO Collaboration)
 * **Target Audience:** College students, youth, at-risk teenagers, and community members.
+# Drug Awareness Chatbot
+
+🚀 **Live Demo:** [Open Drug Awareness Chatbot](https://drug-awareness-chatbot.vercel.app)
+
